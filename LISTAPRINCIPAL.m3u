@@ -85,6 +85,8 @@ http://181.78.208.254:8080/play/a0d7/index.m3u8
 http://181.78.208.254:8080/play/a09e/index.m3u8
 #EXTINF:-1 group-title="Cine y Series",TNT HD
 http://181.78.208.254:8080/play/a00o/index.m3u8
+http://181.78.208.254:8080/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",TNT Series HD
 #EXTINF:-1 group-title="Cine y Series",TNT Novelas HD
 http://181.78.208.254:8080/play/a0fh/index.m3u8
 #EXTINF:-1 group-title="Cine y Series",UNIVERSAL CHANNEL HD
