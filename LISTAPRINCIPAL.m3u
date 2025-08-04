@@ -1,231 +1,196 @@
 #EXTM3U
 
-# Deportes
-#EXTINF:-1 group-title="Deportes",ESPN 2 HD
-http://181.78.208.254:8080/play/a09r/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 3 HD
-http://181.78.208.254:8080/play/a00p/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 4HD
-http://181.78.208.254:8080/play/a0c6/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 5HD
-http://181.78.208.254:8080/play/a0cf/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 7HD
-http://181.78.208.254:8080/play/a0el/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN HD PU
-http://181.78.208.254:8080/play/a0fe/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN Premium HD
-http://181.78.208.254:8080/play/a0c9/index.m3u8
-#EXTINF:-1 group-title="Deportes",Fox Sports 3 HD
-http://181.78.208.254:8080/play/a00q/index.m3u8
-#EXTINF:-1 group-title="Deportes",Gol TV
-http://181.78.208.254:8080/play/a0ed/index.m3u8
-#EXTINF:-1 group-title="Deportes",TNT SPORTS HD
-http://181.78.208.254:8080/play/a008/index.m3u8
-#EXTINF:-1 group-title="Deportes",TNT SPORTS
-http://207.248.3.81:8081/play/a0oz
-#EXTINF:-1 group-title="Deportes",TyC Sports
-http://181.78.208.254:8080/play/a0eg/index.m3u8
-#EXTINF:-1 group-title="Deportes",Win Sports+ HD
-http://181.78.208.254:8080/play/a0fm/index.m3u8
-
-# Cine y Series
-#EXTINF:-1 group-title="Cine y Series",A&E HD
-http://181.78.208.254:8080/play/a0dr/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",AMC
-http://181.78.208.254:8080/play/a0e2/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",ATRES SERIES
-http://181.78.208.254:8080/play/a0d5/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",AXN HD
-http://181.78.208.254:8080/play/a0fq/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Baby TV
-http://181.78.208.254:8080/play/a03f/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Caracol HD
-http://181.78.208.254:8080/play/a0c8/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Cinecanal HD
-http://181.78.208.254:8080/play/a0b8/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Cinemax HD
-http://181.78.208.254:8080/play/a0eb/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",City TV
-http://181.78.208.254:8080/play/a0bw/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Clover
-http://181.78.208.254:8080/play/a0cq/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Cristovisión
-http://181.78.208.254:8080/play/a0as/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",DHE HD
-http://181.78.208.254:8080/play/a05s/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",DW Español
-http://181.78.208.254:8080/play/a0bz/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",De Pelicula
-http://181.78.208.254:8080/play/a0ei/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Distrito Comedia
-http://181.78.208.254:8080/play/01/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",E! Entertainment TV
-http://181.78.208.254:8080/play/a0cp/index.m3u8
+# === CINE Y SERIES ===
+#EXTINF:-1 group-title="Cine y Series",CINECANAL HD
+http://145.239.68.223:9999/chile/hls_kr/793500.m3u8
+#EXTINF:-1 group-title="Cine y Series",CINECANAL HD
+http://145.239.68.223:9999/chile/hls_kr/907449.m3u8
+#EXTINF:-1 group-title="Cine y Series",CINELATINO
+http://145.239.68.223:9999/chile/hls_kr/793364.m3u8
+#EXTINF:-1 group-title="Cine y Series",CINEMAX HD
+http://145.239.68.223:9999/chile/hls_kr/817166.m3u8
+#EXTINF:-1 group-title="Cine y Series",CLARO CINEMA
+http://145.239.68.223:9999/chile/hls_kr/908506.m3u8
 #EXTINF:-1 group-title="Cine y Series",FX HD
-http://181.78.208.254:8080/play/a0cb/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Golden Edge
-http://181.78.208.254:8080/play/a0ej/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Kanal D Drama
-http://181.78.208.254:8080/play/a0bx/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Las Estrellas HD
-http://181.78.208.254:8080/play/a0f5/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Paramount HD
-http://181.78.208.254:8080/play/a0bb/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",STAR CHANNEL HD
-http://181.78.208.254:8080/play/a0cs/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Sony HD
-http://181.78.208.254:8080/play/a0fl/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Space HD
-http://181.78.208.254:8080/play/a007/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Studio Universal HD
-http://181.78.208.254:8080/play/a0fc/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",TCM
-http://181.78.208.254:8080/play/a0d7/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",TNT HD
-http://181.78.208.254:8080/play/a09e/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",TNT HD
-http://181.78.208.254:8080/play/a00o/index.m3u8
-http://181.78.208.254:8080/play/a00o/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",TNT Series HD
-#EXTINF:-1 group-title="Cine y Series",TNT Novelas HD
-http://181.78.208.254:8080/play/a0fh/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",UNIVERSAL CHANNEL HD
-http://181.78.208.254:8080/play/a0ax/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",USA
-http://181.78.208.254:8080/play/a0c0/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Warner Channel HD
-http://181.78.208.254:8080/play/a005/index.m3u8
+http://145.239.68.223:9999/chile/hls_kr/907556.m3u8
+#EXTINF:-1 group-title="Cine y Series",HBO
+http://145.239.68.223:9999/chile/hls_kr/907534.m3u8
+#EXTINF:-1 group-title="Cine y Series",HBO 2 HD
+http://145.239.68.223:9999/chile/hls_kr/793281.m3u8
+#EXTINF:-1 group-title="Cine y Series",HBO FAMILY CHANNEL
+http://145.239.68.223:9999/chile/hls_kr/793339.m3u8
+#EXTINF:-1 group-title="Cine y Series",HBO MUNDI
+http://145.239.68.223:9999/chile/hls_kr/793473.m3u8
+#EXTINF:-1 group-title="Cine y Series",HBO PLUS HD
+http://145.239.68.223:9999/chile/hls_kr/793338.m3u8
+#EXTINF:-1 group-title="Cine y Series",HBO POP
+http://145.239.68.223:9999/chile/hls_kr/793337.m3u8
+#EXTINF:-1 group-title="Cine y Series",HBO SIGNATURE HD
+http://145.239.68.223:9999/chile/hls_kr/793315.m3u8
+#EXTINF:-1 group-title="Cine y Series",HBO XTREME
+http://145.239.68.223:9999/chile/hls_kr/793262.m3u8
+#EXTINF:-1 group-title="Cine y Series",PARAMOUNT HD
+http://145.239.68.223:9999/chile/hls_kr/793446.m3u8
+#EXTINF:-1 group-title="Cine y Series",STARCHANNEL
+http://145.239.68.223:9999/chile/hls_kr/907537.m3u8
+#EXTINF:-1 group-title="Cine y Series",STUDIO UNIVERSAL HD
+http://145.239.68.223:9999/chile/hls_kr/793458.m3u8
+#EXTINF:-1 group-title="Cine y Series",TCM CHILE
+http://145.239.68.223:9999/chile/hls_kr/793401.m3u8
+#EXTINF:-1 group-title="Cine y Series",TNT NOVELAS
+http://145.239.68.223:9999/chile/hls_kr/793383.m3u8
+#EXTINF:-1 group-title="Cine y Series",TNT SERIES HD
+http://145.239.68.223:9999/chile/hls_kr/907594.m3u8
+#EXTINF:-1 group-title="Cine y Series",UNIVERSAL CINEMA HD
+http://145.239.68.223:9999/chile/hls_kr/1039613.m3u8
+#EXTINF:-1 group-title="Cine y Series",UNIVERSAL COMEDY HD
+http://145.239.68.223:9999/chile/hls_kr/1039615.m3u8
+#EXTINF:-1 group-title="Cine y Series",UNIVERSAL CRIME HD
+http://145.239.68.223:9999/chile/hls_kr/1040688.m3u8
+#EXTINF:-1 group-title="Cine y Series",UNIVERSAL HD
+http://145.239.68.223:9999/chile/hls_kr/793485.m3u8
+#EXTINF:-1 group-title="Cine y Series",UNIVERSAL PREMIERE HD
+http://145.239.68.223:9999/chile/hls_kr/1039612.m3u8
+#EXTINF:-1 group-title="Cine y Series",UNIVERSAL REALITY HD
+http://145.239.68.223:9999/chile/hls_kr/1039614.m3u8
+#EXTINF:-1 group-title="Cine y Series",VIAX
+http://145.239.68.223:9999/chile/hls_kr/898669.m3u8
+#EXTINF:-1 group-title="Cine y Series",VIAX2 HD
+http://145.239.68.223:9999/chile/hls_kr/793265.m3u8
+#EXTINF:-1 group-title="Cine y Series",WARNER CHANNEL
+http://145.239.68.223:9999/chile/hls_kr/907541.m3u8
 
-# Cultura
-#EXTINF:-1 group-title="Cultura",Discovery H&H HD
-http://181.78.208.254:8080/play/a0ba/index.m3u8
-#EXTINF:-1 group-title="Cultura",Discovery HD
-http://181.78.208.254:8080/play/a0b9/index.m3u8
-#EXTINF:-1 group-title="Cultura",Discovery Science
-http://181.78.208.254:8080/play/a0fo/index.m3u8
-#EXTINF:-1 group-title="Cultura",Discovery Theater HD
-http://181.78.208.254:8080/play/a0c5/index.m3u8
-#EXTINF:-1 group-title="Cultura",Discovery Turbo
-http://181.78.208.254:8080/play/a0cn/index.m3u8
-#EXTINF:-1 group-title="Cultura",Discovery World HD
-http://181.78.208.254:8080/play/a0b7/index.m3u8
-#EXTINF:-1 group-title="Cultura",El Gourmet
-http://181.78.208.254:8080/play/a0d2/index.m3u8
-#EXTINF:-1 group-title="Cultura",Eurochannel
-http://181.78.208.254:8080/play/a03n/index.m3u8
-#EXTINF:-1 group-title="Cultura",Europa Europa
-http://181.78.208.254:8080/play/a0ap/index.m3u8
-#EXTINF:-1 group-title="Cultura",Film&Arts
-http://181.78.208.254:8080/play/a0am/index.m3u8
-#EXTINF:-1 group-title="Cultura",History 2
-http://181.78.208.254:8080/play/a0fp/index.m3u8
-#EXTINF:-1 group-title="Cultura",History Channel
-http://181.78.208.254:8080/play/a0fd/index.m3u8
-#EXTINF:-1 group-title="Cultura",Love Nature
-http://181.78.208.254:8080/play/a0dy/index.m3u8
-#EXTINF:-1 group-title="Cultura",NTV
-http://181.78.208.254:8080/play/a0d8/index.m3u8
-#EXTINF:-1 group-title="Cultura",Nat Geo HD
-http://181.78.208.254:8080/play/a0fk/index.m3u8
-#EXTINF:-1 group-title="Cultura",Sun Channel HD
-http://181.78.208.254:8080/play/a0fj/index.m3u8
+# === NACIONALES ===
+#EXTINF:-1 group-title="Nacionales",ANTENA 3 INTERNACIONAL
+http://145.239.68.223:9999/chile/hls_kr/905077.m3u8
+#EXTINF:-1 group-title="Nacionales",ARTV CHILE
+http://145.239.68.223:9999/chile/hls_kr/793402.m3u8
+#EXTINF:-1 group-title="Nacionales",BIOBIO TV
+http://145.239.68.223:9999/chile/hls_kr/1145994.m3u8
+#EXTINF:-1 group-title="Nacionales",CANAL 13 CABLE HD
+http://145.239.68.223:9999/chile/hls_kr/793403.m3u8
+#EXTINF:-1 group-title="Nacionales",CANAL 24 HORAS
+http://145.239.68.223:9999/chile/hls_kr/793269.m3u8
+#EXTINF:-1 group-title="Nacionales",CANAL CLARO HD
+http://145.239.68.223:9999/chile/hls_kr/908329.m3u8
+#EXTINF:-1 group-title="Nacionales",CANAL DIPUTADOS
+http://145.239.68.223:9999/chile/hls_kr/793357.m3u8
+#EXTINF:-1 group-title="Nacionales",CANAL IBEROAMERICANO
+http://145.239.68.223:9999/chile/hls_kr/908505.m3u8
+#EXTINF:-1 group-title="Nacionales",CANAL13 CHILE HD
+http://145.239.68.223:9999/chile/hls_kr/793523.m3u8
+#EXTINF:-1 group-title="Nacionales",CHILEVISION HD
+http://145.239.68.223:9999/chile/hls_kr/793442.m3u8
+#EXTINF:-1 group-title="Nacionales",LA RED HD
+http://145.239.68.223:9999/chile/hls_kr/908404.m3u8
+#EXTINF:-1 group-title="Nacionales",MEGA
+http://145.239.68.223:9999/chile/hls_kr/793481.m3u8
+#EXTINF:-1 group-title="Nacionales",MEGA FICCIÓN
+http://145.239.68.223:9999/chile/hls_kr/1146655.m3u8
+#EXTINF:-1 group-title="Nacionales",NTV
+http://145.239.68.223:9999/chile/hls_kr/908362.m3u8
+#EXTINF:-1 group-title="Nacionales",PALABRA DE HONOR EXTENDIDO
+http://145.239.68.223:9999/chile/hls_kr/1131516.m3u8
+#EXTINF:-1 group-title="Nacionales",REC TV HD
+http://145.239.68.223:9999/chile/hls_kr/793288.m3u8
+#EXTINF:-1 group-title="Nacionales",SBN
+http://145.239.68.223:9999/chile/hls_kr/793348.m3u8
+#EXTINF:-1 group-title="Nacionales",TELECANAL
+http://145.239.68.223:9999/chile/hls_kr/793391.m3u8
+#EXTINF:-1 group-title="Nacionales",ZONA LATINA CHILE
+http://145.239.68.223:9999/chile/hls_kr/793432.m3u8
 
-# Infantiles
-#EXTINF:-1 group-title="Infantiles",Cartoon Network
-http://181.78.208.254:8080/play/a0fs/index.m3u8
-#EXTINF:-1 group-title="Infantiles",Cartoonito
-http://181.78.208.254:8080/play/a0cm/index.m3u8
-#EXTINF:-1 group-title="Infantiles",Discovery Kids HD
-http://181.78.208.254:8080/play/a0cz/index.m3u8
-#EXTINF:-1 group-title="Infantiles",Disney HD
-http://181.78.208.254:8080/play/a0ey/index.m3u8
-#EXTINF:-1 group-title="Infantiles",Disney Junior
-http://181.78.208.254:8080/play/a0f4/index.m3u8
-#EXTINF:-1 group-title="Infantiles",Tooncast
-http://181.78.208.254:8080/play/a0bt/index.m3u8
+# === DEPORTES ===
+#EXTINF:-1 group-title="Deportes",CLARO SPORTS
+http://145.239.68.223:9999/chile/hls_kr/1157091.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 2 NEW
+http://145.239.68.223:9999/chile/hls_kr/793494.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 3 HD
+http://145.239.68.223:9999/chile/hls_kr/907763.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 4
+http://145.239.68.223:9999/chile/hls_kr/907833.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 5
+http://145.239.68.223:9999/chile/hls_kr/793477.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 7
+http://145.239.68.223:9999/chile/hls_kr/793424.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN NEW
+http://145.239.68.223:9999/chile/hls_kr/793457.m3u8
+#EXTINF:-1 group-title="Deportes",TNT SPORTS (489)
+http://145.239.68.223:9999/chile/hls_kr/908414.m3u8
+#EXTINF:-1 group-title="Deportes",TNT SPORTS 3 HD
+http://145.239.68.223:9999/chile/hls_kr/908409.m3u8
+#EXTINF:-1 group-title="Deportes",TNT SPORTS PREMIUM (491)
+http://145.239.68.223:9999/chile/hls_kr/908432.m3u8
 
-# Nacionales
-#EXTINF:-1 group-title="Nacionales",13 C
-http://181.78.208.254:8080/play/a0d1/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Canal 13
-http://181.78.208.254:8080/play/a0cg/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Canal 13 HD
-http://181.78.208.254:8080/play/a0ca/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Canal 24 Horas HD
-http://181.78.208.254:8080/play/a0fv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",NTN 24 Horas
-http://181.78.208.254:8080/play/a0dc/index.m3u8
-#EXTINF:-1 group-title="Nacionales",TVN HD
-http://181.78.208.254:8080/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Nacionales",24horas
-http://179.57.171.184:8000/play/a00c
-#EXTINF:-1 group-title="Nacionales",mega2
-http://179.57.171.184:8000/play/a00e
-#EXTINF:-1 group-title="Nacionales",mega
-http://179.57.171.184:8000/play/a00d
-#EXTINF:-1 group-title="Nacionales",megaficcion
-http://179.57.171.184:8000/play/a00f
-#EXTINF:-1 group-title="Nacionales",meganoticias
-http://179.57.171.184:8000/play/a00j
-#EXTINF:-1 group-title="Nacionales",012_chv
-http://179.57.171.184:8000/play/a00k
-#EXTINF:-1 group-title="Nacionales",chvilevisionnoticias
-http://179.57.171.184:8000/play/a00l
-
-
-
-# Noticias
-#EXTINF:-1 group-title="Noticias",CableNoticias
-http://181.78.208.254:8080/play/a0ct/index.m3u8
-#EXTINF:-1 group-title="Noticias",Canal Institucional
-http://181.78.208.254:8080/play/a0ea/index.m3u8
-#EXTINF:-1 group-title="Noticias",Canal TRO
-http://181.78.208.254:8080/play/a0da/index.m3u8
-#EXTINF:-1 group-title="Noticias",Telepacifico
-http://181.78.208.254:8080/play/a0c1/index.m3u8
-#EXTINF:-1 group-title="Noticias",Telesur
-http://181.78.208.254:8080/play/a0bs/index.m3u8
-
-# Otros
-#EXTINF:-1 group-title="Otros",EWTN
-http://181.78.208.254:8080/play/a0ah/index.m3u8
-#EXTINF:-1 group-title="Otros",Enlace
-http://181.78.208.254:8080/play/a0d6/index.m3u8
-#EXTINF:-1 group-title="Otros",HTV
-http://181.78.208.254:8080/play/a0cc/index.m3u8
-#EXTINF:-1 group-title="Otros",ID HD
-http://181.78.208.254:8080/play/a0fr/index.m3u8
-#EXTINF:-1 group-title="Otros",Lifetime
-http://181.78.208.254:8080/play/a0fu/index.m3u8
-#EXTINF:-1 group-title="Otros",MTV LIVE HD
-http://181.78.208.254:8080/play/a0ay/index.m3u8
-#EXTINF:-1 group-title="Otros",MásChic
-http://181.78.208.254:8080/play/a0ao/index.m3u8
-#EXTINF:-1 group-title="Otros",Nick Music
-http://181.78.208.254:8080/play/a0cx/index.m3u8
-#EXTINF:-1 group-title="Otros",Nuestra Tele
-http://181.78.208.254:8080/play/a09m/index.m3u8
-#EXTINF:-1 group-title="Otros",Pasiones HD
-http://181.78.208.254:8080/play/a0fi/index.m3u8
-#EXTINF:-1 group-title="Otros",RAI
-http://181.78.208.254:8080/play/a0by/index.m3u8
-#EXTINF:-1 group-title="Otros",RCN HD
-http://181.78.208.254:8080/play/a0c7/index.m3u8
-#EXTINF:-1 group-title="Otros",Señal Colombia
-http://181.78.208.254:8080/play/a0ef/index.m3u8
-#EXTINF:-1 group-title="Otros",Stingray Concerts HD
-http://181.78.208.254:8080/play/a0ee/index.m3u8
-#EXTINF:-1 group-title="Otros",TLC
-http://181.78.208.254:8080/play/a0ft/index.m3u8
-#EXTINF:-1 group-title="Otros",Teleantioquia
-http://181.78.208.254:8080/play/a03c/index.m3u8
-#EXTINF:-1 group-title="Otros",Telecafe
-http://181.78.208.254:8080/play/a0db/index.m3u8
-#EXTINF:-1 group-title="Otros",Telecaribe
-http://181.78.208.254:8080/play/a0d9/index.m3u8
-#EXTINF:-1 group-title="Otros",Teleislas
-http://181.78.208.254:8080/play/a0al/index.m3u8
-#EXTINF:-1 group-title="Otros",Telemundo
-http://181.78.208.254:8080/play/a0ce/index.m3u8
-#EXTINF:-1 group-title="Otros",Telenovelas
-http://181.78.208.254:8080/play/a0an/index.m3u8
+# === CULTURA ===
+#EXTINF:-1 group-title="Cultura",ANIMAL PLANET HD
+http://145.239.68.223:9999/chile/hls_kr/793448.m3u8
+#EXTINF:-1 group-title="Cultura",CANAL 13 CABLE HD
+http://145.239.68.223:9999/chile/hls_kr/793403.m3u8
+#EXTINF:-1 group-title="Cultura",CANAL DIPUTADOS
+http://145.239.68.223:9999/chile/hls_kr/793357.m3u8
+#EXTINF:-1 group-title="Cultura",COMEDY CENTRAL HD
+http://145.239.68.223:9999/chile/hls_kr/793317.m3u8
+#EXTINF:-1 group-title="Cultura",Concert Channel
+http://145.239.68.223:9999/chile/hls_kr/908504.m3u8
+#EXTINF:-1 group-title="Cultura",DEUTSCHE WELLE HD
+http://145.239.68.223:9999/chile/hls_kr/1028753.m3u8
+#EXTINF:-1 group-title="Cultura",DISCOVERY CHANNEL HD
+http://145.239.68.223:9999/chile/hls_kr/793428.m3u8
+#EXTINF:-1 group-title="Cultura",DISCOVERY HOME AND HEALTH CHANNEL
+http://145.239.68.223:9999/chile/hls_kr/793270.m3u8
+#EXTINF:-1 group-title="Cultura",DISCOVERY ID NEW
+http://145.239.68.223:9999/chile/hls_kr/793342.m3u8
+#EXTINF:-1 group-title="Cultura",DISCOVERY KIDS CHANNEL
+http://145.239.68.223:9999/chile/hls_kr/907447.m3u8
+#EXTINF:-1 group-title="Cultura",DISCOVERY THEATER HD
+http://145.239.68.223:9999/chile/hls_kr/793429.m3u8
+#EXTINF:-1 group-title="Cultura",DISCOVERY TURBO HD
+http://145.239.68.223:9999/chile/hls_kr/793437.m3u8
+#EXTINF:-1 group-title="Cultura",DISCOVERY WORLD HD
+http://145.239.68.223:9999/chile/hls_kr/793343.m3u8
+#EXTINF:-1 group-title="Cultura",DISNEY CHANNEL
+http://145.239.68.223:9999/chile/hls_kr/907825.m3u8
+#EXTINF:-1 group-title="Cultura",DISNEY JUNIOR HD
+http://145.239.68.223:9999/chile/hls_kr/793761.m3u8
+#EXTINF:-1 group-title="Cultura",E ENTERTAINMENT
+http://145.239.68.223:9999/chile/hls_kr/793431.m3u8
+#EXTINF:-1 group-title="Cultura",EL GOURMET HD CHILE
+http://145.239.68.223:9999/chile/hls_kr/1030253.m3u8
+#EXTINF:-1 group-title="Cultura",EL SEMBRADOR
+http://145.239.68.223:9999/chile/hls_kr/793322.m3u8
+#EXTINF:-1 group-title="Cultura",ENLACE
+http://145.239.68.223:9999/chile/hls_kr/793349.m3u8
+#EXTINF:-1 group-title="Cultura",FRANCE24 HD
+http://145.239.68.223:9999/chile/hls_kr/898467.m3u8
+#EXTINF:-1 group-title="Cultura",FUNBOX
+http://145.239.68.223:9999/chile/hls_kr/793352.m3u8
+#EXTINF:-1 group-title="Cultura",HTV
+http://145.239.68.223:9999/chile/hls_kr/793388.m3u8
+#EXTINF:-1 group-title="Cultura",INTIHD
+http://145.239.68.223:9999/chile/hls_kr/793351.m3u8
+#EXTINF:-1 group-title="Cultura",LOVE NATURE HD
+http://145.239.68.223:9999/chile/hls_kr/1029498.m3u8
+#EXTINF:-1 group-title="Cultura",MTV
+http://145.239.68.223:9999/chile/hls_kr/793416.m3u8
+#EXTINF:-1 group-title="Cultura",NATGEOHD
+http://145.239.68.223:9999/chile/hls_kr/793344.m3u8
+#EXTINF:-1 group-title="Cultura",NHK
+http://145.239.68.223:9999/chile/hls_kr/793250.m3u8
+#EXTINF:-1 group-title="Cultura",NICK JR HD
+http://145.239.68.223:9999/chile/hls_kr/793496.m3u8
+#EXTINF:-1 group-title="Cultura",NICKELODEON HD
+http://145.239.68.223:9999/chile/hls_kr/793478.m3u8
+#EXTINF:-1 group-title="Cultura",NICKMUSIC
+http://145.239.68.223:9999/chile/hls_kr/793356.m3u8
+#EXTINF:-1 group-title="Cultura",PALABRA DE HONOR EXTENDIDO
+http://145.239.68.223:9999/chile/hls_kr/1131516.m3u8
+#EXTINF:-1 group-title="Cultura",SBN
+http://145.239.68.223:9999/chile/hls_kr/793348.m3u8
+#EXTINF:-1 group-title="Cultura",SPACE HD
+http://145.239.68.223:9999/chile/hls_kr/907613.m3u8
+#EXTINF:-1 group-title="Cultura",TLC CHANNEL
+http://145.239.68.223:9999/chile/hls_kr/793404.m3u8
+#EXTINF:-1 group-title="Cultura",TV PLUS HD
+http://145.239.68.223:9999/chile/hls_kr/793498.m3u8
+#EXTINF:-1 group-title
