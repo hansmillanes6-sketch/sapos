@@ -1,8 +1,9 @@
 #EXTM3U
 
 # === CINE Y SERIES ===
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hansmillanes6-sketch/imagenes/main/hbo.png" group-title="Cine y Series",HBO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logo/hbo.png" group-title="Cine y Series",HBO
 http://145.239.68.223:9999/chile/hls_kr/907534.m3u8
+
 #EXTINF:-1 group-title="Cine y Series",CINECANAL HD
 http://145.239.68.223:9999/chile/hls_kr/793500.m3u8
 #EXTINF:-1 group-title="Cine y Series",CINECANAL HD
